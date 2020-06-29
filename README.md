@@ -12,7 +12,7 @@ Recordar reconstruir los modulos de Node
 ```
 npm install
 ```
-Y para contruir el build, recordar:
+Y para contribuir el build, recordar:
 ```
 npm run build
 ```
