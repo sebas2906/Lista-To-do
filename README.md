@@ -1,6 +1,6 @@
 # Lista To do
-Lista to-do es un gestor de tareas que permite las siguientes tareas:
--
+Lista to-do es un gestor de tareas creado JS, html y css que permite lo siguiente:
+
 - Crear nuevas tareas
 - Marcar tareas realizadas
 - Ver las tareas completadas
@@ -8,11 +8,12 @@ Lista to-do es un gestor de tareas que permite las siguientes tareas:
 - Borrar nuevas tareas
 
 ### Notas:
-Recordar reconstruir los modulos de Node
+Reconstruir los modulos de Node
 ```
 npm install
 ```
-Y para contribuir el build, recordar:
+Para construir la app
 ```
 npm run build
 ```
+Abrir el index.html de la carpeta dist una vez realizado los pasos anteriores
